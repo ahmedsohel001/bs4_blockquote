@@ -1,0 +1,13 @@
+.bs4-flex{
+	background-color: #fff;
+}
+.content-text {
+	background-color: #f2f2f2;
+	padding: 15px 5px;
+	position: relative;
+}
+img {
+	background-color: #ddd;
+	padding: 15px;
+	border-radius: 50%;
+}
